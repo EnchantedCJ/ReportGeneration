@@ -1,8 +1,11 @@
 # 地震破坏力速报系统报告生成程序
 
 Describe: Generate report for earthquake simulation.
+
 Version: 0.1.0
+
 Last update: 2018.12.05
+
 Author: CJ
 
 ## 基本配置
