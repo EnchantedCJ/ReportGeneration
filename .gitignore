@@ -1,0 +1,4 @@
+# my ignore
+/.idea/
+/__pycache__/
+/input/config.json
